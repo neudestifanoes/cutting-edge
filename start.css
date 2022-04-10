@@ -50,3 +50,9 @@ hr {
 	border-color:#23252a ;
 	border-width: 4px;
 }
+p{
+	color: yellowgreen;
+	position: relative;
+	top: 130px;
+	text-align: center;
+}
